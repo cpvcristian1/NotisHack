@@ -1,5 +1,8 @@
 # NotisHack
 
+[![Tests](https://github.com/cpvcristian1/NotisHack/actions/workflows/tests.yml/badge.svg)](https://github.com/cpvcristian1/NotisHack/actions/workflows/tests.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 A small Python bot that checks several hackathon and competition sources every
 day and sends a Telegram summary with the ones that match a set of filters.
 
