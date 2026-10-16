@@ -1,0 +1,7 @@
+import os
+
+TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "")
+TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID", "")
+BRABBLE_API_KEY = os.getenv("BRABBLE_API_KEY", "")
+NOTIFIED_FILE = "notified.json"
+CHECK_INTERVAL_HOURS = 24
